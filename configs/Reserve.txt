@@ -1,7 +1,7 @@
 //profile-title: base64:8J+UgSBSZXNlcnZl
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-07-15 13:20:46
+//last update on: 2026-07-15 18:59:47
 //mode: 🔁 Reserve — все живые
 
 trojan://bd839675fb51e1aa56dc9309@94.228.162.46:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=94.228.162.46#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
