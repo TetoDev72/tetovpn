@@ -1,7 +1,7 @@
 //profile-title: base64:0KLRg9C90LXRj9C00LXRhlByb3h5
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-08-30 15:49:56
+//last update on: 2026-08-30 20:21:35
 //mode: 🐌 ТунеядецProxy — для друзей
 
 vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@87.251.77.95:443?security=reality&encryption=none&pbk=S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ&fp=edge&spx=%2F&type=grpc&sni=www.apple.com&sid=fa3c4d0d247a82d8#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
