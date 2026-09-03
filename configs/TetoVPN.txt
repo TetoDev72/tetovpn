@@ -1,7 +1,7 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-09-03 10:29:51
+//last update on: 2026-09-03 15:35:03
 //mode: 🎀 TetoVPN — ~25 лучших
 
 vless://59eefc04-b831-45cf-8d68-63ca23381171@185.164.111.48:443?security=reality&encryption=none&pbk=4-qE0E0B5ShfnAe0KFM0qRkXJ33rRF39AlHK7MpBzAE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4c5a76834671#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
@@ -11,4 +11,4 @@ vless://935ed92d-68c3-42c7-8c32-2db2595737e6@models.medic-ml.ru:443?encryption=n
 vless://935ed92d-68c3-42c7-8c32-2db2595737e6@scan.medic-ml.ru:443?encryption=none&security=reality&sni=scan.medic-ml.ru&fp=qq&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e&type=xhttp&mode=auto&path=%2Fapi%2Fv2%2Ftelemetry#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%8F%B4%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%202
 vless://59eefc04-b831-45cf-8d68-63ca23381171@185.164.111.48:443?security=reality&encryption=none&pbk=4-qE0E0B5ShfnAe0KFM0qRkXJ33rRF39AlHK7MpBzAE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4c5a76834671#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
 vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@87.251.77.95:443?security=reality&encryption=none&pbk=S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ&fp=edge&spx=%2F&type=grpc&sni=www.apple.com&sid=fa3c4d0d247a82d8#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
-vless://935ed92d-68c3-42c7-8c32-2db2595737e6@83.220.168.140:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.kinopoisk.ru&fp=qq&pbk=Dcb04OZydR58J8AhxcAl7khFbXp-WcCsuhnC1xJJKjA&sid=a987b6bd1781daa3&type=tcp&headerType=none#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
+vless://935ed92d-68c3-42c7-8c32-2db2595737e6@83.220.168.140:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.kinopoisk.ru&fp=qq&pbk=Dcb04OZydR58J8AhxcAl7khFbXp-WcCsuhnC1xJJKjA&…#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B3%EF%B8%8F%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
