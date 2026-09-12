@@ -1,7 +1,7 @@
 //profile-title: base64:8J+OgCBUZXRvVlBO
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-09-12 02:32:07
+//last update on: 2026-09-12 09:53:26
 //mode: 🎀 TetoVPN — ~25 лучших
 
 vless://3ace221c-c0a9-4b1a-9c99-7a23d777b221@fast147.slopllex.app:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=fast147.slopllex.app&fp=firefox&type=tcp&headerType=none&fm=%7B%7D#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
