@@ -1,7 +1,7 @@
 //profile-title: base64:8J+UgSBSZXNlcnZl
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-09-19 19:51:50
+//last update on: 2026-09-20 02:46:58
 //mode: 🔁 Reserve — все живые
 
 vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?encryption=none&security=reality&sni=ok.ru&fp=chrome&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&sid=864fbb122f15b43d&spx=%2F&type=xhttp&mode=stream-one&host=vk.com&path=%2Fapi%2Fv1%2Fe0163615#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
