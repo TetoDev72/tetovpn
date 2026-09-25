@@ -1,11 +1,11 @@
 //profile-title: base64:0KLRg9C90LXRj9C00LXRhlByb3h5
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-09-24 21:00:15
+//last update on: 2026-09-25 02:52:19
 //mode: 🐌 ТунеядецProxy — для друзей
 
 vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.56:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AE%20%F0%9F%8F%B4%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F%201
 vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.56:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%201
-vless://58ef78a9-4bf6-424f-bede-a57ea89c51d3@153.52.69.82:2053?mode=stream-one&path=%2Fv3%2Fplaylist%2Fchunk&security=reality&encryption=none&pbk=_KSeEH5idWkoDTfwebA8pi1pDYH1hGfcJQUJBuMk1n4&host=vc.ru&fp=firefox&type=xhttp&sni=vc.ru#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
-vless://d0e80dcb-190e-48e3-87dc-b2bab2324723@91.215.40.26:16443?mode=auto&path=%2FaFlS06iNEzhdEdIa&security=reality&encryption=none&pbk=NcusujNOLaj9kiNIAMzg3BKdb3WYXMdkCgfeNHyie1E&host=ddg.steptofsvo.com&fp=randomized&type=xhttp&sni=ddg.steptofsv…#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
+vless://77ff308d-76e0-00a0-bca7-89152f55f67f@144.31.129.174:443?security=reality&encryption=none&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&sid=20ed7ee26095771b#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%202
+vless://58ef78a9-4bf6-424f-bede-a57ea89c51d3@153.52.69.82:2053?mode=stream-one&path=%2Fv3%2Fplaylist%2Fchunk&security=reality&encryption=none&pbk=_KSeEH5idWkoDTfwebA8pi1pDYH1hGfcJQUJBuMk1n4&host=vc.ru&fp=firefox&type=xhttp&sni=vc.ru#%E2%9D%A4%EF%B8%8F%20%F0%9F%8F%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%203
