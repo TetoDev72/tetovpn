@@ -1,7 +1,7 @@
 //profile-title: base64:0KLRg9C90LXRj9C00LXRhlByb3h5
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//last update on: 2026-10-02 21:40:54
+//last update on: 2026-10-03 03:14:25
 //mode: 🐌 ТунеядецProxy — для друзей
 
 vless://38fdb074-9b55-44eb-87fd-b01bcc0f7f2b@eu86.vaultberry.cloud:443?encryption=none&security=reality&sni=eu86.vaultberry.cloud&fp=firefox&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B1%20%F0%9F%8F%B4%20%D0%A7%D0%B8%D0%BB%D0%B8%201
